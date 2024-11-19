@@ -10,3 +10,5 @@
 - [Automated Signal Analysis](#)
 
 Stay tuned!
+
+[← Back to FlipGuard](./README.md)
