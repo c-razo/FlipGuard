@@ -12,52 +12,55 @@
 ---
 
 ## 📚 Featured Hacks
-
-### 10 Most Popular Hacks:
 1. **NFC Tag Reading and Cloning**  
-   Learn how to read, save, and emulate NFC tags with ease.  
    [Read More](./nfc-tag-cloning.md)
 
 2. **IR Remote Emulation**  
-   Capture and emulate IR signals to control devices.  
    [Read More](./ir-remote-emulation.md)
 
 3. **Sub-GHz Signal Analysis**  
-   Scan, analyze, and replay Sub-GHz signals.  
    [Read More](./sub-ghz-analysis.md)
 
 4. **RFID Tag Cloning**  
-   Understand how to read and clone RFID tags for educational purposes.  
    [Read More](./rfid-tag-cloning.md)
 
 5. **Universal TV Remote**  
-   Learn to use the Flipper Zero as a universal remote for IR-based devices.  
    [Read More](./universal-tv-remote.md)
 
 6. **GPIO Signal Testing**  
-   Explore hardware control by testing GPIO pins with the Flipper Zero.  
    [Read More](./gpio-signal-testing.md)
 
 7. **Bluetooth Device Scanning**  
-   Scan for Bluetooth devices and understand signal strength.  
    [Read More](./bluetooth-device-scanning.md)
 
-8. **Signal Jamming (Theoretical)**  
-   Learn about the concept of signal jamming and its limitations.  
+8. **Signal Jamming**  
    [Read More](./signal-jamming.md)
 
 9. **Keylogger Development Tool**  
-   Experiment with creating a keylogger for testing purposes.  
    [Read More](./keylogger-development.md)
 
 10. **Debugging Firmware**  
-   Use the Flipper Zero for debugging and customizing firmware on devices.  
-   [Read More](./debugging-firmware.md)
+    [Read More](./debugging-firmware.md)
 
 ---
 
-## ⚠️ Disclaimers
-FlipGuard is an independent project and is not affiliated with or endorsed by Flipper Devices. 
-Flipper Zero is a trademark of Flipper Devices Inc. 
-This project is intended for educational and ethical purposes only. 
-Always adhere to local laws and obtain proper authorization before testing or analyzing devices.
+## 🚀 Advanced Hacks
+Dive deeper into Flipper Zero’s potential with advanced guides, coming soon!  
+[Explore Advanced Hacks](./advanced-hacks.md)
+
+---
+
+## 🔧 Troubleshooting
+Encountering issues? Check out the troubleshooting guide for common problems and solutions.  
+[Read More](./troubleshooting.md)
+
+---
+
+## 🤝 Community Contributions
+Have a cool hack or improvement to share? Contribute to FlipGuard and help the community grow!  
+[How to Contribute](./community-contributions.md)
+
+---
+
+## ⚠️ Disclaimer
+FlipGuard is an independent project and is not affiliated with or endorsed by Flipper Devices. Flipper Zero is a trademark of Flipper Devices Inc. This project is intended for educational and ethical purposes only. Always adhere to local laws and obtain proper authorization before testing or analyzing devices.
