@@ -1,4 +1,8 @@
 # FlipGuard
+![Stars](https://img.shields.io/github/stars/c-razo/FlipGuard)
+![Forks](https://img.shields.io/github/forks/c-razo/FlipGuard)
+![License](https://img.shields.io/github/license/c-razo/FlipGuard)
+![Last Commit](https://img.shields.io/github/last-commit/c-razo/FlipGuard)
 
 ## Unlock the full potential of Flipper Zero!
 
