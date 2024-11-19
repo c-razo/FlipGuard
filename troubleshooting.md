@@ -44,3 +44,5 @@
 
 ### **Need More Help?**
 If your issue isn’t listed here, visit our [community contributions](./community-contributions.md) page or check out the [official Flipper Zero forums](https://forum.flipperzero.one/).
+
+[← Back to FlipGuard](./README.md)
