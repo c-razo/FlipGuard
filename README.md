@@ -56,5 +56,8 @@
 
 ---
 
-## ⚠️ Disclaimer
-FlipGuard is an independent project and is not affiliated with or endorsed by Flipper Devices. Flipper Zero is a trademark of Flipper Devices Inc. This project is intended for educational and ethical purposes only. Always adhere to local laws and obtain proper authorization before testing or analyzing devices.
+## ⚠️ Disclaimers
+FlipGuard is an independent project and is not affiliated with or endorsed by Flipper Devices. 
+Flipper Zero is a trademark of Flipper Devices Inc. 
+This project is intended for educational and ethical purposes only. 
+Always adhere to local laws and obtain proper authorization before testing or analyzing devices.
