@@ -13,7 +13,7 @@
 
 ## 📚 Featured Hacks
 
-### 10 Most Popular Hacks
+### 10 Most Popular Hacks:
 1. **NFC Tag Reading and Cloning**  
    Learn how to read, save, and emulate NFC tags with ease.  
    [Read More](./nfc-tag-cloning.md)
