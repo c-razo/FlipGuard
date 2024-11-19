@@ -19,3 +19,5 @@
 - Add appropriate disclaimers if necessary.
 
 Thank you for helping FlipGuard grow!
+
+[← Back to FlipGuard](./README.md)
