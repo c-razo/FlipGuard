@@ -43,3 +43,5 @@
 ---
 
 **Have ideas for more advanced hacks?** [Contribute to FlipGuard](./community-contributions.md) and help us expand this section!
+
+[← Back to FlipGuard](./README.md)
