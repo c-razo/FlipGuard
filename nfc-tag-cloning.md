@@ -77,8 +77,3 @@ Size: 1 KB
 ---
 
 [← Back to FlipGuard](./README.md)
-
----
-
-### **Next Steps**
-Does this format work for you? If so, I’ll apply it to Hack 2: **IR Remote Emulation** and provide the output for you!
