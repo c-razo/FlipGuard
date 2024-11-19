@@ -42,7 +42,7 @@
    Scan for Bluetooth devices and understand signal strength.  
    [Read More](./bluetooth-device-scanning.md)
 
-8. **Signal Jamming**  
+8. **Signal Jamming (Theoretical)**  
    Learn about the concept of signal jamming and its limitations.  
    [Read More](./signal-jamming.md)
 
