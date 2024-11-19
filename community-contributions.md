@@ -33,3 +33,5 @@
 ---
 
 **Thank you for helping FlipGuard grow!** Every contribution makes this resource more valuable for the community.
+
+[← Back to FlipGuard](./README.md)
