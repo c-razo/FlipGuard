@@ -1,6 +1,6 @@
 # FlipGuard
 
-## Unlock the full potential of Flipper Zero with FlipGuard!
+## Unlock the full potential of Flipper Zero!
 
 **Welcome to FlipGuard!** Explore ethical and practical cybersecurity applications using the versatile Flipper Zero. This project provides detailed guides to help you maximize the potential of your device while staying within ethical and legal boundaries.
 
