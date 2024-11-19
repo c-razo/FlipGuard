@@ -72,4 +72,17 @@ Signal Strength: -45 dBm
 
 ---
 
+## **Important Notes**
+- **Firmware Limitations**: The Flipper Zero’s signal transmission capabilities depend on the firmware version. Some firmware (e.g., "unlocked" firmware) may extend these capabilities but might not comply with local regulations.
+- **Effectiveness**: When configured properly, the Flipper Zero can create interference by transmitting noise or predefined signals on specific frequencies.
+- **Legal and Ethical Compliance**:
+  - Always ensure compliance with local laws.
+  - Unauthorized jamming, even in controlled environments, can result in legal consequences.
+
+**Recommendation**:
+- Use updated firmware and verify its capabilities before proceeding.
+- Perform all tests in private, isolated environments to minimize the risk of unintended interference.
+
+---
+
 [← Back to FlipGuard](./README.md)
