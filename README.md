@@ -13,7 +13,7 @@
 
 ## 📚 Featured Hacks
 
-### **Available Now**
+### **10 Most Popular **
 1. **NFC Tag Reading and Cloning**  
    Learn how to read, save, and emulate NFC tags with ease.  
    [Read More](./nfc-tag-cloning.md)
@@ -26,9 +26,6 @@
    Scan, analyze, and replay Sub-GHz signals.  
    [Read More](./sub-ghz-analysis.md)
 
----
-
-### **Coming Soon**
 4. **RFID Tag Cloning**  
    Understand how to read and clone RFID tags for educational purposes.  
    [Read More](./rfid-tag-cloning.md)
