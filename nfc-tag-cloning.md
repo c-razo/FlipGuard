@@ -1,7 +1,3 @@
-Got it! Let’s reformat Hack 1 to match the style of your README. Once that’s complete, we’ll move to Hack 2.
-
----
-
 ### **Hack 1: NFC Tag Reading and Cloning**
 
 ## **Introduction**
