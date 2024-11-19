@@ -19,3 +19,5 @@
 ---
 
 If your issue isn’t listed, feel free to [contact us](./README.md).
+
+[← Back to FlipGuard](./README.md)
