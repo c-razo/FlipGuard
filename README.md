@@ -1,3 +1,5 @@
+![FlipGuard Banner](./flipguard.jpg)
+
 # FlipGuard
 ![Stars](https://img.shields.io/github/stars/c-razo/FlipGuard)
 ![Forks](https://img.shields.io/github/forks/c-razo/FlipGuard)
