@@ -1,15 +1,14 @@
 # FlipGuard
 
 **Welcome to FlipGuard!**  
-Your go-to resource for ethical Flipper Zero guides, tutorials, and resources.  
-Explore step-by-step hacks, curated resources, and advanced tips below.
+Your go-to resource for ethical and practical Flipper Zero guides.
 
-## 📚 Explore FlipGuard
-- [Featured Hacks](./README.md)
-- [Advanced Hacks](./advanced-hacks.md)
-- [Troubleshooting](./troubleshooting.md)
-- [Community Contributions](./community-contributions.md)
+## Explore FlipGuard
+- [Featured Hacks](./README.md#featured-hacks)
+- [Advanced Hacks](./README.md#advanced-hacks)
+- [Troubleshooting](./README.md#troubleshooting)
+- [Community Contributions](./README.md#community-contributions)
 - [Additional Resources](./README.md#additional-resources)
 
-## ⚠️ Disclaimer
-FlipGuard is not affiliated with or endorsed by Flipper Devices. Flipper Zero is a trademark of Flipper Devices Inc.
+## Disclaimer
+FlipGuard is an independent project and not affiliated with Flipper Devices.
