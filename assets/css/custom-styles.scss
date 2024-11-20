@@ -3,16 +3,27 @@ $primary-color: #ff6600; // Your orange
 $secondary-color: #000000; // Black
 $background-color: #ffffff; // White
 
-// Apply the colors
+/* Custom color palette */
 body {
-    background-color: $background-color;
-    color: $secondary-color;
+    background-color: #ffffff; /* White background */
+    color: #000000; /* Black text */
 }
 
 a {
-    color: $primary-color;
+    color: #ff6600; /* Orange links */
 }
 
 a:hover {
-    color: darken($primary-color, 10%);
+    color: #cc5200; /* Darker orange for hover effect */
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #ff6600; /* Orange headings */
+}
+
+.banner {
+    text-align: center;
+    padding: 20px;
+    background-color: #000000; /* Black banner background */
+    color: #ffffff; /* White banner text */
 }
