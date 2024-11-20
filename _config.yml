@@ -1,3 +1,11 @@
 remote_theme: mmistakes/minimal-mistakes
 plugins:
   - jekyll-include-cache
+
+defaults:
+  - scope:
+      path: "" # Applies to all files
+      type: "pages" # Target all pages
+    values:
+      layout: "default"
+      css: "/assets/css/custom-styles.css" # Path to your custom CSS file
