@@ -26,3 +26,5 @@
 ---
 
 Contact us directly via GitHub or email to get started!
+
+[← Back to FlipGuard](./README.md)
