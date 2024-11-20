@@ -42,3 +42,6 @@
 ---
 
 **More resources will be added as FlipGuard grows! Have a favorite? [Contribute to FlipGuard!](./community-contributions.md)**
+
+[← Back to FlipGuard](./README.md)
+
