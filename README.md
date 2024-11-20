@@ -70,5 +70,19 @@ Have a cool hack or improvement to share? Contribute to FlipGuard and help the c
 
 ---
 
+## 📂 Additional Resources
+
+1. **Curated Resources**: A collection of the best Flipper Zero tutorials, guides, and forums.  
+   [Explore Resources](./curated-resources.md)
+
+2. **Ethical Use Guide**: Learn how to use the Flipper Zero responsibly and within legal boundaries.  
+   [Read the Ethical Use Guide](./theoretical-guide-ethical-use.md)
+
+3. **Collaboration Opportunities**: Contribute your knowledge, hacks, or tutorials to FlipGuard!  
+   [Learn How to Collaborate](./collaboration-opportunities.md)
+
+---
+
 ## ⚠️ Disclaimer
 FlipGuard is an independent project and is not affiliated with or endorsed by Flipper Devices. Flipper Zero is a trademark of Flipper Devices Inc. This project is intended for educational and ethical purposes only. Always adhere to local laws and obtain proper authorization before testing or analyzing devices.
+
