@@ -1,0 +1,18 @@
+// Custom color palette
+$primary-color: #ff6600; // Your orange
+$secondary-color: #000000; // Black
+$background-color: #ffffff; // White
+
+// Apply the colors
+body {
+    background-color: $background-color;
+    color: $secondary-color;
+}
+
+a {
+    color: $primary-color;
+}
+
+a:hover {
+    color: darken($primary-color, 10%);
+}
